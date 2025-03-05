@@ -9,8 +9,7 @@ int main() {
     printf("***** BISPO *****\n");
 
     for (bispo = 1; bispo <= 5; bispo++) {
-        printf("Bispo: Cima-");
-        printf("direita\n");
+        printf("Bispo: Cima-Direita\n");
     }
 
 
