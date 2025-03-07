@@ -30,6 +30,17 @@ int main() {
         printf("Rainha: Esquerda\n");
         rainha++;
     } while (rainha <= 8);
+
+
+    // Movimento do cavalo
+    printf("\n\n***** CAVALO *****\n");
+    for (int cavalo = 1; cavalo == 1; cavalo++) {
+        for(int movimento = 1; movimento == 1; movimento++) {
+            printf("Baixo-baixo-");
+        }
+        printf("esquerda\n");
+    }
+    
     
     
     return 0;
